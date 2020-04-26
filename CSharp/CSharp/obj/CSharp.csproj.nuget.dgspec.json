@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj": {}
+    "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj": {
+    "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
+        "projectPath": "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
         "packagesPath": "C:\\Users\\admins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\obj\\",
+        "outputPath": "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admins\\AppData\\Roaming\\NuGet\\NuGet.Config"

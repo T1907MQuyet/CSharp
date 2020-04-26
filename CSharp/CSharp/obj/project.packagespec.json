@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
+    "projectUniqueName": "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
     "projectName": "CSharp",
-    "projectPath": "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
-    "outputPath": "C:\\Users\\admins\\Desktop\\CSharp\\CSharp\\CSharp\\obj\\",
+    "projectPath": "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\CSharp.csproj",
+    "outputPath": "C:\\Users\\admins\\OneDrive\\Desktop\\CSharp\\CSharp\\CSharp\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"

@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\admins\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\admins\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CSharp.954337664.00" t="ExcludeRecursive" />
-    <e p="C:\Users\admins\Desktop\CSharp\CSharp" t="IncludeFlat">
+    <e p="C:\Users\admins\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_CSharp.-1641073324.00" t="ExcludeRecursive" />
+    <e p="C:\Users\admins\OneDrive\Desktop\CSharp\CSharp" t="IncludeFlat">
       <e p="CSharp" t="IncludeRecursive">
+        <e p="Assignment3" t="Include">
+          <e p="Cart.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="CSharp.csproj" t="IncludeRecursive" />
+        <e p="Lab2" t="Include">
+          <e p="Product.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Lab3" t="Include">
+          <e p="Fashion.cs" t="Include" />
+          <e p="Hang.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
