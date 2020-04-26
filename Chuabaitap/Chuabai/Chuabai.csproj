@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="Program.cs" />
+      <None Include="Program.cs" />
+      <Compile Remove="Session5\Program.cs" />
+      <None Include="Session5\Program.cs" />
+      <Compile Remove="Lab2_3\Program.cs" />
+      <None Include="Lab2_3\Program.cs" />
+    </ItemGroup>
+
+</Project>
