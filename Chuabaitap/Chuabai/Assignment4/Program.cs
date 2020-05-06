@@ -9,7 +9,7 @@ namespace Chuabai.Assignment4
         public static void Main(string[] args)
         {
             List<KhachHangVietNam> listVN = new List<KhachHangVietNam>();
-            listVN.Add(new KhachHangVietNam(1,"nguyễn văn an","01/2019",155,"sinh hoạt"));
+            listVN.Add(new KhachHangVietNam(1,"nguye                                                                                                                                                                                         n văn an","01/2019",155,"sinh hoạt"));
             List<KhachHangNuocNgoai> listNN = new List<KhachHangNuocNgoai>();
             listNN.Add(new KhachHangNuocNgoai(2,"Alex","01/2019",78,"US"));
             listNN.Add(new KhachHangNuocNgoai(3,"Micheal","01/2019",122,"UK"));
@@ -46,5 +46,8 @@ namespace Chuabai.Assignment4
                 }
             }
         }
+
+       
+
     }
 }

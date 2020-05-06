@@ -8,7 +8,9 @@ namespace Chuabai.Assignment4
         protected string name;
         protected string billDate;
         protected int number;
-
+        protected string haha;
+        protected string khachha;
+        protected string nuocngoai;
         public KhachHang()
         {
         }
